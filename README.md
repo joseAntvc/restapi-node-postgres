@@ -1,1 +1,0 @@
-# restapi-node-postgres
